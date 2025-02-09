@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close.png</file>
+        <file>res/dayu.png</file>
+        <file>res/duoyun.png</file>
+        <file>res/feng.png</file>
+        <file>res/kongqizhiliang.png</file>
+        <file>res/PM2.5.png</file>
+        <file>res/qingtian.png</file>
+        <file>res/res.qrc</file>
+        <file>res/shidu.png</file>
+        <file>res/sousuo.png</file>
+        <file>res/wumai.png</file>
+        <file>res/xiayu.png</file>
+        <file>res/yintian.png</file>
+    </qresource>
+</RCC>
